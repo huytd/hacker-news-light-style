@@ -2,7 +2,9 @@
 
 A customized light style for Hacker News. Somewhat identical to [lobste.rs](https://lobste.rs/).
 
-Steps to install:
+![](hacker-news-light-style.png)
+
+**Steps to install:**
 
 1. Install [Stylus](https://github.com/openstyles/stylus), this is the alternative for Stylish but without [the evil stuff](https://news.ycombinator.com/item?id=17447816).
 2. Write a new style for `news.ycombinator.com`, paste the following CSS, and that's all:
